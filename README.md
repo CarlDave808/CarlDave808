@@ -4,7 +4,7 @@
 
 - <b>Virtual Private Networks(VPNs)</b>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/CarlDave808/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Network File Shares and Permission</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CarlDave808/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
