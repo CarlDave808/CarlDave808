@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Virtual Private Networks(VPNs)</b>
-   - [osTicket: Ticket Lifecycle Examples](https://github.com/CarlDave808/Private-Networks)
+   - [VPN Setup and Usage](https://github.com/CarlDave808/Private-Networks)
 - <b>Network File Shares and Permission</b>
    - [osTicket: Ticket Lifecycle Examples](https://github.com/CarlDave808/File-SharesandPermission)
 
