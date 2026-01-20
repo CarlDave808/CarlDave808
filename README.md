@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Virtual Private Networks(VPNs)</b>
-  - [VPN Setup and Usage(Proton VPN)](https://github.com/CarlDave808/Private-Networks(VPNs)
+  - https://github.com/CarlDave808/ticket-lifecycle
 - <b>Network File Shares and Permission</b>
   - [File Permissions With Google Drive](https://github.com/CarlDave808/azure-network-protocols)
 
