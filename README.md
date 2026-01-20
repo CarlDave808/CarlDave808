@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Virtual Private Networks(VPNs)</b>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/CarlDave808/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CarlDave808/azure-network-protocols)
