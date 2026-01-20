@@ -5,7 +5,7 @@
 - <b>Virtual Private Networks(VPNs)</b>
    - [VPN Setup and Usage](https://github.com/CarlDave808/Private-Networks)
 - <b>Network File Shares and Permission</b>
-   - [File Permissions with Google Drive](https://github.com/CarlDave808/File-SharesandPermission)
+   - [File Permissions with Google Drive](https://github.com/CarlDave808/File-Shares-and-Permission)
 
 <h2>🤳Connect with me:</h2>
 
