@@ -3,9 +3,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Virtual Private Networks(VPNs)</b>
-  - https://github.com/CarlDave808/ticket-lifecycle
+ - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Network File Shares and Permission</b>
-  - [File Permissions With Google Drive](https://github.com/CarlDave808/azure-network-protocols)
+   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 
 <h2>🤳Connect with me:</h2>
 
