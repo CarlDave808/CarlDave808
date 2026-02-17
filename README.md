@@ -3,6 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
+    - [osTicket: Prerequisites and Installation](https://github.com/CarlDave808/osticket-prereqs)
+    - [osTicket: Post-Installation Configuration](https://github.com/CarlDave808/post-install-config)
     - [osTicket: Ticket Lifecycle](https://github.com/CarlDave808/ticket-lifecycle)
 - <b>Network File Shares and Permission</b>
    - [File Permissions with Google Drive](https://github.com/CarlDave808/File-Shares-and-Permission)
